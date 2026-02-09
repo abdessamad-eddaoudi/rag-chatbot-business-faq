@@ -19,5 +19,5 @@ Just type a question, and it returns the most relevant answer from the document 
 - NumPy
 
 ## Demo
-2–3 minute demo video: [Add Loom video link here]
+2–3 minute demo video: https://www.loom.com/share/c8bb149ad2f34ea9b7c32c0572eca10b
 
